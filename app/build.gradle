@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace "doc.qlx.sro"
+    namespace "com.example.myapp"
     compileSdk 34
 
     defaultConfig {
-        applicationId "doc.qlx.sro"
+        applicationId "com.example.myapp"
         minSdk 24
         targetSdk 34
         versionCode 1

@@ -13,7 +13,7 @@ java = ["src/main/java"]
 res = ["src/main/res"]
 
 [android]
-namespace = "doc.qlx.sro"
+namespace = "com.example.myapp"
 compileSdk = 34
 minSdk = 24
 targetSdk = 34
